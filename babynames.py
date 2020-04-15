@@ -33,7 +33,7 @@ Suggested milestones for incremental development:
  -Build the [year, 'name rank', ... ] list and print it
  -Fix main() to use the extract_names list
 """
-
+#function
 def extract_names(filename):
   """
   Given a file name for baby.html, returns a list starting with the year string
